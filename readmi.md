@@ -23,13 +23,13 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: EliezerST #Seu usuario
+          github_user_name: EliezerST#Seu usuario
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
 
-      # Para as atualizações.
+    # Para as atualizações.
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
