@@ -19,6 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-![snake gif](https://github.com/Eliezer ST/Eliezer ST/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EliezerST/EliezerST/blob/output/github-contribution-grid-snake.svg)
 
 
